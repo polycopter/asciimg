@@ -64,7 +64,7 @@ Very simple to understand, it compares every pixel and calculates Mean squared e
 #### StructuralSimilarityFitStrategy
 
 The structural similarity (SSIM) index algorithm claims to reproduce human perception and its aim is to improve on traditional methods like MSE.
-Uou can read more on <a href="http://en.wikipedia.org/wiki/Structural_similarity">Wikipedia</a> if you want to know more.
+You can read more on <a href="http://en.wikipedia.org/wiki/Structural_similarity">Wikipedia</a> if you want to know more.
 I experimented a bit with it and implemented a version that seemed to produce the best results for this case.
 
 ### AsciiConverter<T>
